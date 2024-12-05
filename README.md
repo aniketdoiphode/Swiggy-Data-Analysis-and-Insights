@@ -13,13 +13,13 @@ MySQL
 
 
 ## ✤ **Tables Used:**
-users
-restaurants
-food
-menu
-delivery_partner
-orders
-order_details
+ - users
+ - restaurants
+ - food
+ - menu
+ - delivery_partner
+ - orders
+ - order_details
 
 ## ✤ **Queries of the Project:**
 Q1. Find customers who have never ordered.
