@@ -1,18 +1,18 @@
 # Swiggy-Data-Analysis-and-Insights
 
-\n
-**Project Description:**\n
+
+## **Project Description:**
 This project delves into Swiggy's operational and customer analytics using SQL. 
 The dataset simulates Swiggy's transactional data to derive actionable insights. 
 By solving a variety of real-world problems, this project explores key metrics such as customer behavior, revenue growth, restaurant performance, and customer preferences. 
 It demonstrates SQL proficiency through complex queries, aggregate functions, date filters, and joins.
 
-\n
-✤ **Tool Used:**
+
+## ✤ **Tool Used:**
 MySQL
 
-\n
-✤ **Tables Used:**\n
+
+## ✤ **Tables Used:**
 users
 restaurants
 food
@@ -20,8 +20,8 @@ menu
 delivery_partner
 orders
 order_details
-\n
-✤ **Queries of the Project:**
+
+## ✤ **Queries of the Project:**
 Q1. Find customers who have never ordered.
 
 Q2. Average Price/dish
